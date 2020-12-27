@@ -1,6 +1,6 @@
 ### Hi there, I'm [Shreya][website]✌
 
-[![Website] dfnoid](https//:dfkmb.com)
+[![Website]](https//:dfkmb.com)
 
 
 ## I'm a web developer/data science enthusiast/third year student at SRMIST, Chennai.
