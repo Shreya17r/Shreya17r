@@ -15,9 +15,7 @@
 
 - Compass- NBHD 
 
-[![]][id]
-
-[id]: https://images.genius.com/7ff6ccafa6d0a7c8ca8f2c847c6436ae.640x640x1.jpg "Compass-NBHD"
+[<img src="https://images.genius.com/7ff6ccafa6d0a7c8ca8f2c847c6436ae.640x640x1.jpg" alt="album" width="60"/>](https://images.genius.com/7ff6ccafa6d0a7c8ca8f2c847c6436ae.640x640x1.jpg)
 
 
 [<img src="https://i.gifer.com/Nt6v.gif" alt="visual" width="60" height="60"/>](https://open.spotify.com/track/0YNtAadZvKBBEFARtfoCV8)
