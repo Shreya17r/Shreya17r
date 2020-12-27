@@ -1,6 +1,6 @@
 ### Hi there, I'm [Shreya][website]✌
 
-[![Website]](https//:dfkmb.com)
+[![Website (https://img.shields.io/website?label=shreyar.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)]](https//:dfkmb.com)
 
 
 ## I'm a web developer/data science enthusiast/third year student at SRMIST, Chennai.
