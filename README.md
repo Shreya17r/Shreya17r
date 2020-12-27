@@ -16,9 +16,7 @@
 - Compass- NBHD 
 
 [<img src="https://images.genius.com/7ff6ccafa6d0a7c8ca8f2c847c6436ae.640x640x1.jpg" alt="album" width="60"/>](https://images.genius.com/7ff6ccafa6d0a7c8ca8f2c847c6436ae.640x640x1.jpg)
-
-
-[<img src="https://media.giphy.com/media/jMuJNF2FymXS14GTPY/giphy.gif" alt="visual" width="60"/>](https://media.giphy.com/media/jMuJNF2FymXS14GTPY/giphy.gif)
+[<img src="https://media.giphy.com/media/HeHaKhcJVj8r0cZx2J/giphy.gif" alt="visual" width="350"/>](https://media.giphy.com/media/HeHaKhcJVj8r0cZx2J/giphy.gif)
 
 ### Connect with me:
 
