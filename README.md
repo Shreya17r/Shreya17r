@@ -1,9 +1,11 @@
 ## Hey there, I'm [Shreya][website]✌
 
+<pre>
 `if awake:`\
-` code()`\
+         `code()`\
 `elif tired:`\
-`drink_coffee `
+          `drink_coffee `
+</pre>
 
 
 ### I'm a web developer/ data science enthusiast/ student!
