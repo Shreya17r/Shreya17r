@@ -1,15 +1,23 @@
-### Hi there, I'm [Shreya][website]✌
+## Hey there, I'm [Shreya][website]✌
 
-[![Website (https://img.shields.io/website?label=shreyar.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)]](https//:dfkmb.com)
+`<if awake:>`
+           `<code()>`
+`<> elif tired:>`
+            `< drink_coffee >`
 
 
-## I'm a web developer/data science enthusiast/third year student at SRMIST, Chennai.
+### I'm a web developer/ data science enthusiast/ student!
+
+#### More About Me
+
+
+
 
 - 🔭 I am currently working on a project called: [....][project]!
 - 🌱 Work Experience:
 - 🙋 Seeking opportunities to work in a challenging environments and push my boundaries.
-- 🥅 2021 Resolution: Consistency and Smart Work; DS algo and 100 days of coding!
-- 🌟When I am not coding : I am sketching,painting, playing and listening to new music.🎵🎧
+- 🎯 2021 Resolution: Consistency and Smart Work; DS algo and 100 days of coding!
+- 🌟When I am not coding , I am sketching, painting,listening to music.🎵
 
 ### Spotify Playing 🎧
 
