@@ -1,10 +1,12 @@
 ## Hey there, I'm [Shreya][website]✌
 
 <pre>
-`if awake:`\
-         `code()`\
-`elif tired:`\
-          `drink_coffee `
+   <code>
+ if awake:
+         code()
+elif tired:
+          drink_coffee
+    </code>      
 </pre>
 
 
