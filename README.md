@@ -1,9 +1,9 @@
 ## Hey there, I'm [Shreya][website]✌
 
-`<if awake:>`
-           `<code()>`
-`<> elif tired:>`
-            `< drink_coffee >`
+-`if awake:`
+-`<      code()>`
+-`<elif tired:>`
+-`<           drink_coffee >`
 
 
 ### I'm a web developer/ data science enthusiast/ student!
