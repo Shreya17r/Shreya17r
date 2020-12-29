@@ -82,7 +82,7 @@ I am presently a third year student at SRMIST, Chennai and looking for opportuni
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="GitHub Stats" src="#" />
+  <img align="left" alt="GitHub Stats" src="https://github-readme-stats.Shreya17r.vercel.app/api?username=shrey17r&show_icons=true&hide_border=true" />
 
 </details>
 
