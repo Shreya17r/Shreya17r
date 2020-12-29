@@ -10,7 +10,7 @@ elif tired:
     </code>      
 </pre>
 
-<img src= "https://miro.medium.com/max/500/1*mr7WXw8tgpMhqugKP2WhrA.gif">
+<img src= "https://miro.medium.com/max/500/1*mr7WXw8tgpMhqugKP2WhrA.gif" alt="coder" width="300" height="300">
 
 ## I'm a web developer ,data science enthusiast and a student!
 
