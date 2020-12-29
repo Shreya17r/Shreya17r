@@ -1,9 +1,14 @@
 ## Hey there, I'm [Shreya][website]✌😄
 ### life motto🌈 XD 
 
-<pre>
-  <img src= "https://miro.medium.com/max/500/1*mr7WXw8tgpMhqugKP2WhrA.gif" alt="coder">
-</pre>
+<code>
+if awake:
+        code()
+elif tired:
+          drink_coffee()
+ </code>                 
+  <img src= "https://miro.medium.com/max/500/1*mr7WXw8tgpMhqugKP2WhrA.gif" alt="coder" style="float:right">
+
 
 
 
