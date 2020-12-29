@@ -17,6 +17,9 @@ elif tired:
 
 I am presently a third year student at SRMIST, Chennai and looking for opportunities and collaborations in the field of *web development* and *data science*.
 
+###### codingisthesolution
+<br />
+
 
 - 🔭 currently working on a project called: [Content Aggregator][project]!
 - 🌱 Work Experience:
@@ -26,7 +29,7 @@ I am presently a third year student at SRMIST, Chennai and looking for opportuni
 
 ### Spotify Playing 🎧
 
-[![Spotify](https://novatorem-c66zlcytc.vercel.app/api/spotify)](https://open.spotify.com/user/novatorem-c66zlcytc)
+
 
 - Compass- NBHD 
 
