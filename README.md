@@ -2,8 +2,8 @@
 ### life motto🌈 XD 
 
 <pre>
-   <code>
-                                                          <img src= "https://miro.medium.com/max/500/1*mr7WXw8tgpMhqugKP2WhrA.gif" alt="coder">
+  <img src= "https://miro.medium.com/max/500/1*mr7WXw8tgpMhqugKP2WhrA.gif" alt="coder">
+  <code>                                                        
  if awake:
          code()
 elif tired:                                       
