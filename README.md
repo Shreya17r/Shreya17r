@@ -1,5 +1,5 @@
-## Hey there, I'm [Shreya][website]✌
-### Nice to meet you
+## Hey there, I'm [Shreya][website]✌😄
+### life motto🌈 XD 
 
 <pre>
    <code>
@@ -13,11 +13,10 @@ elif tired:
 
 ## I'm a web developer ,data science enthusiast and a student!
 
-#### More About Me
+### More About Me 💬
 
-I am presently a third year student at SRMIST, Chennai and looking for opportunities and collaborations in the field of *web development* and *data science*.
-
- ###### #*codingisthesolution*
+I am presently a third year student at SRMIST, Chennai and looking for opportunities and collaborations in the field of *web development* and *data science*. ✅
+###### #*codingisthesolution*
 
 - 🔭 currently working on a project called: [Content Aggregator][project]!
 - 🌱 Work Experience:
@@ -29,7 +28,7 @@ I am presently a third year student at SRMIST, Chennai and looking for opportuni
 
 
 
-- Compass- NBHD 
+- Compass- NBHD 🔊
 
 [<img src="https://images.genius.com/7ff6ccafa6d0a7c8ca8f2c847c6436ae.640x640x1.jpg" alt="album" width="80" height="80" img align="left"/>](https://images.genius.com/7ff6ccafa6d0a7c8ca8f2c847c6436ae.640x640x1.jpg)
 [<img src="https://media.giphy.com/media/HeHaKhcJVj8r0cZx2J/giphy.gif" alt="visual" width="300" height="100" img align="left"/>](https://media.giphy.com/media/HeHaKhcJVj8r0cZx2J/giphy.gif)
