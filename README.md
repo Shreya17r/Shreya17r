@@ -3,9 +3,10 @@
 
 <pre>
    <code>
+                                                          <img src= "https://miro.medium.com/max/500/1*mr7WXw8tgpMhqugKP2WhrA.gif" alt="coder">
  if awake:
          code()
-elif tired:                                       <img src= "https://miro.medium.com/max/500/1*mr7WXw8tgpMhqugKP2WhrA.gif" alt="coder">
+elif tired:                                       
           drink_coffee
     </code>      
 </pre>
