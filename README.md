@@ -87,5 +87,5 @@ I am presently a third year student at SRMIST, Chennai and looking for opportuni
 </details>
 
 [website]: http://www.fallingfalling.com/
-[linkedin]: www.linkedin.com/in/shreya-raghuvansh-683614184
+[linkedin]: https://www.linkedin.com/in/shreya-raghuvansh-683614184
 [project]: https://github.com/Shreya17r/content-aggregator
