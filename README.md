@@ -5,12 +5,12 @@
    <code>
  if awake:
          code()
-elif tired:
+elif tired:                                       <img src= "https://miro.medium.com/max/500/1*mr7WXw8tgpMhqugKP2WhrA.gif" alt="coder">
           drink_coffee
     </code>      
 </pre>
 
-<img src= "https://miro.medium.com/max/500/1*mr7WXw8tgpMhqugKP2WhrA.gif" alt="coder">
+
 
 ## I'm a web developer ,data science enthusiast and a student!
 
