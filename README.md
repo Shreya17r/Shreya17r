@@ -1,4 +1,5 @@
 ## Hey there, I'm [Shreya][website]✌
+### Nice to meet you
 
 <pre>
    <code>
@@ -10,20 +11,22 @@ elif tired:
 </pre>
 
 
-### I'm a web developer/ data science enthusiast/ student!
+## I'm a web developer ,data science enthusiast and a student!
 
 #### More About Me
 
+I am presently a third year student at SRMIST, Chennai and looking for opportunities and collaborations in the field of *web development* and *data science*.
 
 
-
-- 🔭 I am currently working on a project called: [....][project]!
+- 🔭 currently working on a project called: [Content Aggregator][project]!
 - 🌱 Work Experience:
 - 🙋 Seeking opportunities to work in a challenging environments and push my boundaries.
 - 🎯 2021 Resolution: Consistency and Smart Work; DS algo and 100 days of coding!
 - 🌟When I am not coding , I am sketching, painting,listening to music.🎵
 
 ### Spotify Playing 🎧
+
+[![Spotify](https://novatorem-jet-five.vercel.app/api/spotify)](https://open.spotify.com/user/novatorem-jet-five)
 
 - Compass- NBHD 
 
@@ -84,3 +87,4 @@ elif tired:
 
 [website]: http://www.fallingfalling.com/
 [linkedin]: www.linkedin.com/in/shreya-raghuvansh-683614184
+[project]: https://github.com/Shreya17r/content-aggregator
