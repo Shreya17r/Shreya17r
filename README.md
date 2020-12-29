@@ -26,7 +26,7 @@ I am presently a third year student at SRMIST, Chennai and looking for opportuni
 
 ### Spotify Playing 🎧
 
-[![Spotify](https://novatorem-jet-five.vercel.app/api/spotify)](https://open.spotify.com/user/novatorem-jet-five)
+[![Spotify](https://novatorem-c66zlcytc.vercel.app/api/spotify)](https://open.spotify.com/user/novatorem-c66zlcytc)
 
 - Compass- NBHD 
 
