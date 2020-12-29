@@ -3,12 +3,6 @@
 
 <pre>
   <img src= "https://miro.medium.com/max/500/1*mr7WXw8tgpMhqugKP2WhrA.gif" alt="coder">
-  <code>                                                        
- if awake:
-         code()
-elif tired:                                       
-          drink_coffee
-    </code>      
 </pre>
 
 
