@@ -17,9 +17,7 @@ elif tired:
 
 I am presently a third year student at SRMIST, Chennai and looking for opportunities and collaborations in the field of *web development* and *data science*.
 
-###### codingisthesolution
-<br />
-
+ ###### #*codingisthesolution*
 
 - 🔭 currently working on a project called: [Content Aggregator][project]!
 - 🌱 Work Experience:
