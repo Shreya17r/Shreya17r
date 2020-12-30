@@ -32,12 +32,12 @@ I am presently a third year student at SRMIST, Chennai and looking for opportuni
 - Compass- NBHD 🔊
 
 [<img src="https://images.genius.com/7ff6ccafa6d0a7c8ca8f2c847c6436ae.640x640x1.jpg" alt="album" width="80" height="80" img align="left"/>](https://images.genius.com/7ff6ccafa6d0a7c8ca8f2c847c6436ae.640x640x1.jpg)
-[<img src="https://img.icons8.com/dusk/2x/linkedin.png" alt="visual" width="300" height="100" img align="left"/>](https://img.icons8.com/dusk/2x/linkedin.png)
+[<img src="https://img.icons8.com/dusk/2x/linkedin.png" alt="visual" width="300" height="100" img align="left"/>](https://media.giphy.com/media/HeHaKhcJVj8r0cZx2J/giphy.gif)
 
 ### Connect with me:
 
 [<img align="left" alt="website" width="22px" src="https://img.icons8.com/dusk/2x/domain.png" />][website]
-[<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="LinkedIn" width="22px" src="https://img.icons8.com/material-two-tone/2x/linkedin--v2.gif" />][linkedin]
 
 
 <br />
