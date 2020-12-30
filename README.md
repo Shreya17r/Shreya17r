@@ -32,11 +32,11 @@ I am presently a third year student at SRMIST, Chennai and looking for opportuni
 - Compass- NBHD 🔊
 
 [<img src="https://images.genius.com/7ff6ccafa6d0a7c8ca8f2c847c6436ae.640x640x1.jpg" alt="album" width="80" height="80" img align="left"/>](https://images.genius.com/7ff6ccafa6d0a7c8ca8f2c847c6436ae.640x640x1.jpg)
-[<img src="https://media.giphy.com/media/HeHaKhcJVj8r0cZx2J/giphy.gif" alt="visual" width="300" height="100" img align="left"/>](https://media.giphy.com/media/HeHaKhcJVj8r0cZx2J/giphy.gif)
+[<img src="https://img.icons8.com/dusk/2x/linkedin.png" alt="visual" width="300" height="100" img align="left"/>](https://img.icons8.com/dusk/2x/linkedin.png)
 
 ### Connect with me:
 
-[<img align="left" alt="website" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="website" width="22px" src="https://img.icons8.com/dusk/2x/domain.png" />][website]
 [<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 
@@ -53,7 +53,7 @@ I am presently a third year student at SRMIST, Chennai and looking for opportuni
 <img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
 <img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
 <img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
+<img align="left" alt="GitHub" width="26px" src="https://img.icons8.com/dusk/2x/github.png" />
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/r/r.png" />
