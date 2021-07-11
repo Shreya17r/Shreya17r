@@ -16,14 +16,14 @@ elif tired:
 
 ### More About Me 💬
 
-I am presently a third year student at SRMIST, Chennai and looking for opportunities and collaborations in the field of *web development* and *data science*. ✅
+I am presently a 4th year student at SRMIST, Chennai and looking for opportunities and collaborations in the field of *web development* and *data science*. ✅
 ###### #*codingisthesolution*
 
-- 🔭 currently working on a project called: [Content Aggregator][project]!
+- 🔭 currently working on a project called: Disease Prediction using Diet and Nutrition Dataset
 - 🌱 Work Experience:
 - 🙋 Seeking opportunities to work in a challenging environments and push my boundaries.
 - 🎯 2021 Resolution: Consistency and Smart Work; DS algo and 100 days of coding!
-- 🌟When I am not coding , I am sketching, painting,listening to music.🎵
+- 🌟When I am not coding , I am sketching and listening to music.🎵
 
 ### Spotify Playing 🎧
 
